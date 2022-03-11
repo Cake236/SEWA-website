@@ -1,2 +1,0 @@
-<input type="checkbox" id="terms" name="uname" value="">
-<label for="terms"><b>Terms and Conditions</b></label>
